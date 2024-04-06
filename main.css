@@ -48,6 +48,10 @@ section .container {
     justify-content: space-between;
 }
 
+.container img {
+    max-width: 640px
+}
+
 .brands-list img {
     height: 24px;
 }
