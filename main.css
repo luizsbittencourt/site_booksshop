@@ -8,19 +8,19 @@ header,
 section h2,
 section h3,
 form button {
-        font-family: "Bungee", sans-serif;
+        font-family: "Open Sans", sans-serif;
         font-weight: normal;
 }
 
 body,
 input,
 textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
+    background-color: #856d06e5;
     color: #ecf0f1;
 }
 
@@ -122,22 +122,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #856d06e5;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #a88b0a;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #856d06e5;
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #856d06e5;
     color: #ecf0f1;
     padding: 16px 0;
 }
